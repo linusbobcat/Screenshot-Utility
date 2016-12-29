@@ -1,6 +1,7 @@
 # Screenshot Utility
 A nicer alternative to Grab.app.
 
+![Screenshot](https://raw.githubusercontent.com/linusbobcat/Screenshot-Utility/master/screenshot.png)
 
 ## Why Use Screenshot Utility over Grab.app?
 - **Keyboard control**: Create screenshots without using the mouse (except
